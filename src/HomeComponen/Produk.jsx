@@ -51,7 +51,7 @@ Harga: Rp ${selectedProduct.price.toLocaleString()}
 Jumlah: ${qty}
   `;
 
-    const phoneNumber = "628xxxxxx"; // GANTI DENGAN NOMOR WA KAMU
+    const phoneNumber = "6285158999795"; // GANTI DENGAN NOMOR WA KAMU
     const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
       message
     )}`;
